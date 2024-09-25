@@ -775,6 +775,9 @@ margin-bottom: 32px;
 	}
 
 		@media (max-width: 460px) {
+			.regulamento {
+				font-size: 5vw;
+			}
 			.header_cadastro_inside {
 				flex-direction: column;
 			}
