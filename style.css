@@ -259,7 +259,7 @@ header div h2 span {
 	margin-top: 0;
 	border-radius: 20px;
 	min-height: 0;
-	height: 50vw;
+	height: 40vw;
 	min-height: 760px;
 	width: 500px;
 }
@@ -547,7 +547,7 @@ margin-bottom: 32px;
 				width: 500px;
 				/* min-width: 160px; */
 				/* height: 460px; */
-				min-height: 700px;
+				min-height: 850px;
 				padding-bottom: 16px;
 				/* margin: 0; */
 				margin-top: 1vw;
