@@ -953,7 +953,7 @@ margin-bottom: 32px;
 		width: 50%;
 		margin: auto;
 	}
-	#cadastro .registro {
+	.registro h2{
 		font-size: 2vw;
 	}
 }
