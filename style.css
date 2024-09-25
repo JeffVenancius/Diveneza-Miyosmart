@@ -534,7 +534,7 @@ margin-bottom: 32px;
 		margin: auto;
 	}
 	.registro h2{
-		font-size: 2vw;
+		font-size: calc(8px + 1.5vwvw);
 	}
 }
 		@media (max-width: 1436px) {
@@ -713,7 +713,7 @@ margin-bottom: 32px;
 				/* max-height: 800px; */
 				height: 160vw;
 				width: 60vw;
-				max-height: 970px;
+				max-height: 840px;
 				min-width: 562px;
 				/* padding-bottom: 10vw; */
 				/* margin-left: 1vw; */
@@ -722,7 +722,7 @@ margin-bottom: 32px;
 	.registro h2 {
 		margin: auto;
 		text-align: center;
-		font-size: calc(8px + 3.6vw);
+		font-size: calc(8px + 2vw);
 		/* width: 60%; */
 		color: #eee;
 	}
