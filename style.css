@@ -775,7 +775,7 @@ margin-bottom: 32px;
 	}
 
 		@media (max-width: 460px) {
-			.regulamento {
+			#cadastro .regulamento p {
 				font-size: 5vw;
 			}
 			.header_cadastro_inside {
