@@ -771,6 +771,9 @@ margin-bottom: 32px;
 
 
 	@media (max-width: 651px) {
+		#cadastro p {
+			font-size: 4.5vw;
+		}
 		#cadastro .registro {
 			height: 125vw;
 			width: 80vw;
