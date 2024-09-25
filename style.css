@@ -132,7 +132,7 @@ header img {
 
 .years__of__use select {
 	width: 100%;
-	height: 64px;
+	height: 3vw;
 }
 
 .years__of__use p {
@@ -261,7 +261,8 @@ header div h2 span {
 	min-height: 0;
 	height: 40vw;
 	min-height: 760px;
-	width: 500px;
+	width: 25vw;
+	min-width: 425px;
 }
 
 .bold__underline_white {
@@ -315,7 +316,7 @@ margin-bottom: 32px;
 		font-family: "Montserrat";
 		margin: auto;
 		text-align: center;
-		font-size: 32px;
+		font-size: 1.5vw;
 		/* width: 60%; */
 		color: #eee;
 	}
@@ -333,7 +334,7 @@ margin-bottom: 32px;
 
 	.text_input_ {
 		background-color: #eee;
-		height: 48px;
+		height: 2.6vw;
 		margin-bottom: 16px;
 		padding-left: 16px;
 		font-size: 16px;
@@ -535,6 +536,10 @@ margin-bottom: 32px;
 }
 
 		@media (max-width: 1436px) {
+			.years__of__use select {
+				height: 64px;
+			}
+			
 			.tecnology div {
 				width: 50%;
 			}
