@@ -534,7 +534,7 @@ margin-bottom: 32px;
 		margin: auto;
 	}
 	.registro h2{
-		font-size: calc(8px + 1.5vwvw);
+		font-size: calc(8px + 1.5vw);
 	}
 }
 		@media (max-width: 1436px) {
@@ -554,7 +554,7 @@ margin-bottom: 32px;
 				width: 500px;
 				/* min-width: 160px; */
 				/* height: 460px; */
-				min-height: 850px;
+				min-height: 920px;
 				padding-bottom: 16px;
 				/* margin: 0; */
 				margin-top: 1vw;
@@ -722,7 +722,7 @@ margin-bottom: 32px;
 	.registro h2 {
 		margin: auto;
 		text-align: center;
-		font-size: calc(8px + 2vw);
+		font-size: calc(8px + 3vw);
 		/* width: 60%; */
 		color: #eee;
 	}
@@ -755,7 +755,7 @@ margin-bottom: 32px;
 				margin: auto;
 			}
 	#cadastro {
-		height: 1700px;
+		height: 1800px;
 		/* min-height: 520px; */
 		/* max-height: 8000px; */
 		padding-bottom: 5vw;
@@ -781,7 +781,7 @@ margin-bottom: 32px;
 			min-width: unset;
 		}
 		#cadastro {
-			height: 1400px;
+			height: 1900px;
 		}
 	}
 
