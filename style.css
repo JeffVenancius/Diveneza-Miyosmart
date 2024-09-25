@@ -528,7 +528,15 @@ margin-bottom: 32px;
 
 	}
 
-
+@media (max-width: 1600px) {
+	.tecnology img {
+		width: 50%;
+		margin: auto;
+	}
+	.registro h2{
+		font-size: 2vw;
+	}
+}
 		@media (max-width: 1436px) {
 			.years__of__use select {
 				height: 64px;
@@ -948,12 +956,4 @@ margin-bottom: 32px;
 	}
 		}
 
-@media (max-width: 1600px) {
-	.tecnology img {
-		width: 50%;
-		margin: auto;
-	}
-	.registro h2{
-		font-size: 2vw;
-	}
-}
+
