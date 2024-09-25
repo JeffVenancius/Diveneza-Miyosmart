@@ -251,7 +251,7 @@ header div h2 span {
 	/* min-height: 0; */
 	padding: 0;
 	padding-bottom: 64px;
-	min-height: 1292px;
+	min-height: 1420px;
 }
 
 #cadastro .registro {
@@ -260,7 +260,7 @@ header div h2 span {
 	border-radius: 20px;
 	min-height: 0;
 	height: 40vw;
-	min-height: 760px;
+	min-height: 840px;
 	width: 25vw;
 	min-width: 425px;
 }
