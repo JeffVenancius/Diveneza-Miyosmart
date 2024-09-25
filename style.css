@@ -809,11 +809,6 @@ margin-bottom: 32px;
 			.registro h2 {
 				font-size: calc(6px + 5vw);
 			}
-			#cadastro p, .receba, .receba_part_2, .bold__underline_white {
-				font-size: 5vw;
-				/* width: 100%; */
-				/* margin: auto; */
-			}
 			.receba {
 				margin-top: 5vw;
 			}
