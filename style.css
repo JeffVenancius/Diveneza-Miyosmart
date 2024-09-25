@@ -885,9 +885,11 @@ margin-bottom: 32px;
 			#socials {
 				display: flex;
 				flex-direction: row;
+				margin-bottom: 3%;
 			}
 			#end_footer {
 				flex-direction: column;
+				height: 25vw;
 			}
 			#dados_footer {
 				display: flex;
@@ -901,7 +903,7 @@ margin-bottom: 32px;
 				font-size: 3.5vw;
 			}
 			a {
-				font-size: 6vw;
+				font-size: 8vw;
 				margin-left: 4vw;
 			}
 			#socials {
