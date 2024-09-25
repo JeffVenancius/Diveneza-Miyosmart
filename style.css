@@ -533,7 +533,12 @@ margin-bottom: 32px;
 			width: 50%;
 			margin: auto;
 		}
-}
+			#cadastro .registro {
+				font-size: calc(9px + 1.5vw);
+			}
+	
+	
+	}
 
 		@media (max-width: 1436px) {
 			.years__of__use select {
@@ -556,7 +561,6 @@ margin-bottom: 32px;
 				padding-bottom: 16px;
 				/* margin: 0; */
 				margin-top: 1vw;
-				font-size: calc(9px + 1.5vw);
 			}
 			#disclaimer_p {
 				margin-top: 1.5vw;
