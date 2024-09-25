@@ -112,7 +112,7 @@ header img {
 
 .regulamento {
 	margin: auto;
-	font-size: 1.3vw;
+	font-size: 23px;
 	color: black;
 	font-weight:600;
 	width: 40%;
@@ -120,7 +120,7 @@ header img {
 }
 
 .regulamento p {
-	margin-bottom: 2vw;
+	margin-bottom: 5%;
 }
 
 .regulamento__blue {
