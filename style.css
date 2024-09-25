@@ -112,7 +112,7 @@ header img {
 
 .regulamento {
 	margin: auto;
-	font-size: 23px;
+	font-size: 1.3vw;
 	color: black;
 	font-weight:600;
 	width: 40%;
@@ -247,11 +247,11 @@ header div h2 span {
 	/* padding-bottom: 32px; */
 	flex-basis: auto;
 	gap: 16px;
-	height: 1350px;
+	height: 70vw;
 	/* min-height: 0; */
 	padding: 0;
 	padding-bottom: 32px;
-	min-height: 650px;
+	min-height: 1640px;
 }
 
 #cadastro .registro {
@@ -259,7 +259,8 @@ header div h2 span {
 	margin-top: 0;
 	border-radius: 20px;
 	min-height: 0;
-	height: 950px;
+	height: 50vw;
+	min-height: 760px;
 	width: 500px;
 }
 
