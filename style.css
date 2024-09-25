@@ -781,8 +781,8 @@ margin-bottom: 32px;
 			.header_cadastro {
 				padding-bottom: 5%;
 			}
-			.header_cadastro h3 {
-				font-size: 6vw;
+			#cadastro .header_cadastro {
+				font-size: 3vw;
 			}
 			#cadastro {
 				height: 400vw;
