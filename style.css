@@ -528,17 +528,6 @@ margin-bottom: 32px;
 
 	}
 
-	@media (max-width: 1800px) {
-		.tecnology img {
-			width: 50%;
-			margin: auto;
-		}
-			#cadastro .registro {
-				font-size: 2vw;
-			}
-	
-	
-	}
 
 		@media (max-width: 1436px) {
 			.years__of__use select {
@@ -959,3 +948,12 @@ margin-bottom: 32px;
 	}
 		}
 
+	@media (max-width: 1800px) {
+		.tecnology img {
+			width: 50%;
+			margin: auto;
+		}
+		#cadastro .registro {
+			font-size: 2vw;
+		}
+	}
